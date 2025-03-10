@@ -80,8 +80,49 @@ https://github.com/Rupeebw/llm_engineering/blob/main/week1/day1.ipynb
 
 </details>
 
+
+
 <details>
-<summary>BookMark</summary>
+<summary>Wrap up- Day1</summary>
+<br>
+
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/f82f1c74-4d24-4660-af1e-62f837ff7050" />
+</details>
+
+
+<details>
+<summary>key Skiils and Tools</summary>
+<br>
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ed028101-94f2-41cb-b37f-9e63fc089b52" />
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/b2d3e321-a597-4212-9dee-09da7203f15e" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/4c51ebfb-5f0a-4633-b4d5-33a9840f5918" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/7501f5a0-ffd9-495e-9e34-ed89bf7c2e90" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/5ae3e6d6-05ef-4970-9c02-d21df7785c3c" />
+
+https://github.com/ollama/ollama
+
+If not, bring up a new Terminal (Mac) or Powershell (Windows) and enter ollama serve
+And in another Terminal (Mac) or Powershell (Windows), enter ollama pull llama3.2
+Then try http://localhost:11434/ again.
+
+If Ollama is slow on your machine, try using llama3.2:1b as an alternative. Run ollama pull llama3.2:1b from a Terminal or Powershell, and change the code below from MODEL = "llama3.2" to MODEL = "llama3.2:1b"
+<img width="1071" alt="image" src="https://github.com/user-attachments/assets/9555fe90-dc81-45aa-a2d4-5f3aa6d3954d" />
+
+</details>
+
+<details>
+<summary>Different models</summary>
+<br>
+
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/c6328f78-7c83-458c-b4b8-0fd45e1b0a0d" />
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/ed8ac034-cc2d-45d7-abd1-0d1912bb77dd" />
+
+
+</details>
+
+<details>
+<summary>Next</summary>
 <br>
 
 
