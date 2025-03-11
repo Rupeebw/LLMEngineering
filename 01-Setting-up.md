@@ -112,11 +112,53 @@ If Ollama is slow on your machine, try using llama3.2:1b as an alternative. Run 
 </details>
 
 <details>
-<summary>Different models</summary>
+<summary>Different models n Along the way - Agenticway</summary>
 <br>
 
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/c6328f78-7c83-458c-b4b8-0fd45e1b0a0d" />
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/ed8ac034-cc2d-45d7-abd1-0d1912bb77dd" />
+
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/e60ad48e-0fa6-4f3d-b1de-f79a94b9743e" />
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/3d35dea2-26fd-4a30-b2dc-0b081a1b7757" />
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/f6ec6bd7-2038-41ba-8cad-ac57214bd4c9" />
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/c7835d7b-f884-4271-af17-2ef17aa2d2de" />
+
+</details>
+
+<details>
+<summary>Token-Context Window</summary>
+<br>
+  
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/47b23b7d-7b92-45a0-a1b9-6ff46af6c639" />
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/1fb6fd8a-e9e0-4768-a41e-d5b1d4345037" />
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/949132a8-bb5f-4f2e-a5c9-96b63c7e15f6" />
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/b2d36af6-281f-491d-bc9d-1bf21a403801" />
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/265526af-642a-416a-8a12-e2242c69922e" />
+
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/18fcb1ec-8340-4c5e-a098-35c80b260510" />
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/ad5d2586-4760-42aa-ab6e-e025c667cc97" />
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/3b668ea2-7355-4776-a23b-c75355d81185" />
+
+https://tools.vellum.ai
+
+</details>
+
+<details>
+<summary>One-shot-prompt</summary>
+<br>
+
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/6a07963e-0406-4f8d-b8ba-852b920930ec" />
+
+<img width="654" alt="image" src="https://github.com/user-attachments/assets/4bb93aab-a986-4c52-be75-0ba0e8154803" />
+
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/1a2923ba-9d1b-4f23-b429-75ffead72c64" />
+
 
 
 </details>
@@ -127,6 +169,14 @@ If Ollama is slow on your machine, try using llama3.2:1b as an alternative. Run 
 
 
 </details>
+
+<details>
+<summary>Next</summary>
+<br>
+
+
+</details>
+
 
 
 
