@@ -1,7 +1,10 @@
 <details>
 <summary>Introduction</summary>
 <br>
-
+  
+https://github.com/Rupeebw/mcpservers
+https://www.youtube.com/watch?v=kQmXtrmQ5Zg
+  
 ![image](https://github.com/user-attachments/assets/9fb7ac03-b951-4c51-8d45-c2d4440943d0)
 
 ![image](https://github.com/user-attachments/assets/fa0d3e3f-c630-4ad7-860e-6cba94384955)
@@ -52,16 +55,35 @@
 </details>
 
 <details>
-<summary>Next</summary>
+<summary>Building Effective Agent with MCP</summary>
 <br>
+
+![image](https://github.com/user-attachments/assets/0152e74e-f365-40e0-93f0-b4d61dbe1a79)
+
+![image](https://github.com/user-attachments/assets/12187d4a-6ff7-4dfb-abc0-d5a3bf87e58d)
+
+![image](https://github.com/user-attachments/assets/97a8bdc5-e7c3-4ce3-9d66-5baf157de391)
 
 
 </details>
 
 
 <details>
-<summary>Next</summary>
+<summary>Next for MCP</summary>
 <br>
+
+![image](https://github.com/user-attachments/assets/e38f1b6e-a9c1-4330-bdd4-423b12f7bae7)
+
+![image](https://github.com/user-attachments/assets/afcdf703-cea6-467a-a0ea-8593ba10b2f8)
+
+![image](https://github.com/user-attachments/assets/71c3a640-7d10-4d84-ad0f-521b39c51f85)
+
+![image](https://github.com/user-attachments/assets/7d9cd079-1a2e-4096-a883-7886cf8cd63c)
+
+
+![image](https://github.com/user-attachments/assets/d4b0693b-0c8d-40e7-9e90-56a159b9024b)
+
+![image](https://github.com/user-attachments/assets/4cd79da0-50d0-4409-bf3a-fde3929150d5)
 
 
 </details>
