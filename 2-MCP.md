@@ -88,6 +88,34 @@ https://www.youtube.com/watch?v=kQmXtrmQ5Zg
 
 </details>
 
+
+
+<details>
+<summary>MCP-get-hands-dirty</summary>
+<br>
+
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/19ecf044-a697-4d2a-8a9f-af427342c66d" />
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/1df56036-07af-4578-87cc-247966a04056" />
+
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/e05c8e70-9382-459f-b88b-aaf4057b7e25" />
+
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/9e03458c-1e04-428d-8bea-48277decd7a0" />
+
+https://github.com/Rupeebw/self-hosted-ai-starter-kit
+
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/3eb9b2a5-f685-459d-9c86-3dd916b6813d" />
+
+https://www.youtube.com/watch?v=TcNd6rTOpJA
+
+</details>
+
+<details>
+<summary>Next</summary>
+<br>
+
+
+</details>
+
 <details>
 <summary>Next</summary>
 <br>
